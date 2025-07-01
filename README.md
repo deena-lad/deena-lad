@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Deena 👋</h1>
 
 <p align="center">
-  <b>M.Tech Data Science student | Deep Learning Enthusiast | LLM Explorer</b><br>
+  <b>M.Tech Data Science | Deep Learning Enthusiast | LLM Explorer</b><br>
   <i>Passionate about using data to decode real-world problems.</i>
 </p>
 
@@ -9,8 +9,8 @@
 
 ### 📌 About Me
 
-🎓 Currently pursuing my Master's in Data Science from **Pandit Deendayal Energy University**  
-💻 Ex-Intern at **ISRO**, **Jio Platforms**, and **Enlighten Infosystems**  
+🎓 Recently completed Master's in Data Science from **Pandit Deendayal Energy University**  
+💻 Ex-Intern at **SAC, ISRO**, **Jio Platforms Limited**, and **Enlighten Infosystems**  
 🧠 Fascinated by Deep Learning, NLP, and all things LLMs  
 🌐 Exploring the intersection of AI and impactful solutions  
 📫 Reach me: [Email](mailto:deenalad06@gmail.com) • [LinkedIn](https://www.linkedin.com/in/deena-lad) • [GitHub](https://github.com/deena-lad)
