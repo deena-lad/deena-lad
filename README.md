@@ -17,6 +17,19 @@
 
 ---
 
+### 🔬 Experience Snapshot
+
+- 🛰️ **ISRO – Research Intern**  
+  Cyclone prediction using CNNs & ConvLSTMs on satellite imagery  
+
+- 🧠 **Jio Platforms – Summer Intern**  
+  Built a personality detection framework using video & prompt engineering  
+
+- ⚙️ **Enlighten Infosystems – Data Science Intern**  
+  Delivered predictive tools with Flask + MySQL backend
+
+---
+
 ### 🛠️ Tech Stack
 
 #### 🧑‍💻 Programming Languages
@@ -69,19 +82,6 @@
 
 ---
 
-### 🔬 Experience Snapshot
-
-- 🛰️ **ISRO – Research Intern**  
-  Cyclone prediction using CNNs & ConvLSTMs on satellite imagery  
-
-- 🧠 **Jio Platforms – Summer Intern**  
-  Built a personality detection framework using video & prompt engineering  
-
-- ⚙️ **Enlighten Infosystems – Data Science Intern**  
-  Delivered predictive tools with Flask + MySQL backend  
-
----
-
 ### 🚀 Projects That Got Me Buzzing
 
 - **Thoracic Disease Detection**  
@@ -112,13 +112,13 @@ When I’m not decoding data, I’m probably creating visuals or leading events 
 
 ---
 
-### 📊 GitHub Stats
+<!--### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=deena-lad&show_icons=true&theme=react" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=deena-lad&theme=react" />
 </p>
-
+-->
 
 
 <!--
