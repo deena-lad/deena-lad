@@ -1,61 +1,74 @@
-## Hi there 👋
-
-# 👋 Hi, I'm Deena Lad
-
-🎓 M.Tech in Data Science @ Pandit Deendayal Energy University  
-🔬 Former Research Intern @ SAC, ISRO | 📊 Former Intern @ Jio, Enlighten Infosystems  
-💻 Passionate about Machine Learning, Deep Learning, Image processing, and building real-world AI solutions
+<h1 align="center">Hi 👋, I'm Deena Lad</h1>
+<h3 align="center">Tuning Models. Training Minds. Building Impact with AI & Data.</h3>
 
 ---
 
-## 🔍 About Me
+### 🧠 About Me
 
-I'm a data science enthusiast who thrives on turning complex data into actionable insights. With a strong foundation in ML/DL, NLP, and time series forecasting, I enjoy working on meaningful problems—whether it's analyzing satellite imagery or building intelligent web apps.
+Hi! I'm a Data Science graduate student with a passion for building intelligent systems that *actually* solve real-world problems.
 
----
+I enjoy working on:
+- 🛰️ Satellite data & geospatial deep learning (currently @ ISRO)
+- 💬 NLP models like BERT, T5, and GPT-based systems
+- 🧪 Research-driven AI prototypes that blend ML with creativity
 
-## 🛠️ Tech Stack
+Currently learning:
+- 🔍 Retrieval-Augmented Generation (RAG)
+- 🛠️ FastAPI, Hugging Face Pipelines
+- 📈 Advanced time-series modeling
 
-- **Languages**: Python, SQL, HTML/CSS (basic)
-- **ML/DL**: PyTorch, TensorFlow, Keras, Scikit-learn, YOLOv5/v8
-- **NLP & LLMs**: Hugging Face Transformers, BERT, T5, spaCy, GPT API
-- **Data Viz & Handling**: Pandas, NumPy, Seaborn, Plotly, GeoPandas, OpenCV
-- **Web & APIs**: Flask, FastAPI
-- **MLOps & Cloud**: GCP, Git, Colab, Streamlit
-- **Time Series**: LSTM, GRU, Prophet, PyTorch Forecasting
-
----
-
-## 🚀 Projects
-
-- **Cyclone Intensity Forecasting** – Deep learning models using satellite imagery (ISRO)
-- **Personality Detection from Sports Videos** – ML pipeline with video scraping & prompt engineering (Jio)
-- **Hate Speech Detection** – BERT-based classifier trained on annotated NLP corpora
-- **Thoracic Disease Detection** – YOLO-based detection on pediatric chest X-rays
-- **Predictive Analytics Tool** – End-to-end web app with Flask + MySQL for time series forecasting
-
-👉 See more on my [GitHub Projects](https://github.com/deena-lad)
+📄 Want to know more? [Check out my resume](https://github.com/deena-lad)
 
 ---
 
-## 🧠 What I'm Learning
+### 🔧 Tech Stack
 
-- Advanced LLM workflows using RAG and OpenAI APIs  
-- MLOps and model deployment strategies  
-- Research methods in geospatial data science  
+<p align="left">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=github&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Transformers-FFCC00?style=flat&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/NLP-8E44AD?style=flat"/>
+  <img src="https://img.shields.io/badge/RAG-20B2AA?style=flat"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+</p>
 
 ---
 
-## 📫 Let's Connect
+### 🔭 What I’m Working On
 
-- 📧 Email: deenalad06@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/deena-lad)  
-- 🧑‍💻 [GitHub](https://github.com/deena-lad)  
-- 🌐 [Cloud Skills Profile](https://www.cloudskillsboost.google/public_profiles/6452e599-b94a-4f86-942d-f4bb9614f4b1)
+- Deep learning models for cyclone intensity prediction using satellite imagery (ISRO)
+- Personality detection models using sports videos and LLMs (Jio)
+- Benchmarking NLP models for hate speech detection and multilingual classification
+- Building intuitive tools with Flask and FastAPI to make ML accessible
 
 ---
 
-⭐ *Always curious. Always building.*
+### 📫 Let's Connect!
+
+- 📧 **Email**: deenalad06@gmail.com  
+- 💼 **LinkedIn**: [deena-lad](https://www.linkedin.com/in/deena-lad)  
+- 💻 **GitHub**: [@deena-lad](https://github.com/deena-lad)  
+- ☁️ **Google Cloud Profile**: [CloudSkillsBoost](https://www.cloudskillsboost.google/public_profiles/6452e599-b94a-4f86-942d-f4bb9614f4b1)
+
+---
+
 
 <!--
 **deena-lad/deena-lad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
