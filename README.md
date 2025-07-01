@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Deena Lad
 
-🎓 M.Tech student in Data Science @ Pandit Deendayal Energy University  
-🔬 Research Intern @ ISRO | 📊 Former Intern @ Jio, Enlighten Infosystems  
-💻 Passionate about Machine Learning, NLP, and building real-world AI solutions
+🎓 M.Tech in Data Science @ Pandit Deendayal Energy University  
+🔬 Former Research Intern @ SAC, ISRO | 📊 Former Intern @ Jio, Enlighten Infosystems  
+💻 Passionate about Machine Learning, Deep Learning, Image processing, and building real-world AI solutions
 
 ---
 
