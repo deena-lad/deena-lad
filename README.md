@@ -1,44 +1,59 @@
-<h1 align="center">Hi there, I'm Deena 👋</h1>
+<h1 align="center">Hi there, I'm Deena</h1>
 
 <p align="center">
-  <strong>M.Tech Data Science | Researcher • Deep Learning • Remote Sensing & Medical Imaging</strong>
+  <strong>M.Tech (Data Science) | AI Researcher | Deep Learning & Spatio-Temporal Modeling</strong><br>
+  <i>Working at the intersection of satellite data, medical imaging, and real-world AI systems.</i>
 </p>
 
 ---
 
-### 🚀 Highlights
-- M.Tech (Data Science) — Gold Medalist (Pandit Deendayal Energy University)  
-- Junior Research Fellow — Sustainability Lab, IIT Gandhinagar  
-- Research Intern — Space Applications Centre (ISRO); Summer Intern — Jio Platforms
+### 👩‍🔬 About Me
+I am an AI and Data Science researcher with hands-on experience in satellite imagery analysis, geospatial data processing, and deep learning for spatio-temporal and medical imaging problems. I enjoy building reproducible pipelines — from data preprocessing to model evaluation — and translating complex model behavior into clear insights.
+
+- 🎓 M.Tech in Data Science — **Gold Medalist**, Pandit Deendayal Energy University  
+- 🔬 Junior Research Fellow — **Sustainability Lab, IIT Gandhinagar**  
+- 🛰️ Former Research Intern — **Space Applications Centre (ISRO)**  
 
 ---
 
-### 🧩 Pinned Work (add repo links)
-- **Thoracic Disease Detection** — YOLO/TensorFlow on DICOM chest X-rays — [Repo link]  
-- **Cyclone Intensity & Forecasting** — CNN + ConvLSTM, satellite imagery pipelines — [Repo link]  
-- **WRF Emulator** — Spatio-temporal DL models for numerical model acceleration — [Repo link]
+### 🔍 Current Focus Areas
+- Deep learning models for numerical weather models (WRF)  
+- Spatio-temporal representation learning on geophysical data  
+- Satellite imagery analysis for extreme weather events  
+---
+
+### 🧠 Technical Stack
+**Languages & Data:** Python, SQL, NumPy, Pandas, xarray  
+**ML / DL:** PyTorch, PyTorch Lightning, TensorFlow/Keras, Scikit-learn  
+**Computer Vision:** CNNs (ResNet, VGG, DenseNet), YOLO, ConvLSTM  
+**NLP:** BERT-based models, Hugging Face Transformers, NLTK  
+**Scientific & Geospatial:** NetCDF, HDF5, GeoPandas, WRF  
+**Deployment & Tools:** Flask, FastAPI, Git, Docker, GCP
 
 ---
 
-### 🛠 Tech Stack
-**Languages:** Python, SQL  
-**ML / DL:** PyTorch, TensorFlow, Scikit-learn, Hugging Face  
-**Data & Geospatial:** xarray, NetCDF, HDF5, GeoPandas, Proj  
-**Web / Deployment:** Flask, FastAPI, Docker, GCP  
-*(Badges/visual icons can be added here — I can generate a polished badge row for you.)*
+### 🧪 Selected Work (Repositories in Progress)
+- **Thoracic Disease Detection (Pediatric Chest X-rays)**  
+  Multi-label detection using YOLO on DICOM imagery with benchmarking across CNN architectures.
+
+- **Cyclone Intensity Estimation & Forecasting**  
+  CNN and ConvLSTM models trained on multi-year satellite data with robust preprocessing pipelines.
+
+- **Spatio-Temporal Modeling of WRF Outputs**  
+  Deep learning–based emulation and evaluation using spatial and temporal diagnostics.
+
+> 🔧 *Repositories are currently being cleaned, documented, and prepared for public release.*
 
 ---
 
-### 📂 How to explore my work
-1. Check pinned repositories for runnable examples and README-driven demos.  
-2. For research repos, look under `/notebooks` for reproducible experiments.  
-3. For deployed apps, open the `docker/` or `deploy/` folder for quick start instructions.
+### 🤝 Collaboration & Contact
+I am open to:
+- Research collaborations  
+- AI/ML engineering roles
+- Open-source and applied ML projects  
+
+📫 **Email:** [deenalad06@gmail.com](mailto:deenalad06@gmail.com)  
+🔗 **LinkedIn:** https://www.linkedin.com/in/deena-lad
 
 ---
-
-### 📫 Contact
-[deenalad06@gmail.com](mailto:deenalad06@gmail.com) • [LinkedIn](https://www.linkedin.com/in/deena-lad) • [GitHub](https://github.com/deena-lad)
-
----
-
 *Interested in reproducible research, ML for Earth & Health, or collaboration? Let’s talk.*
